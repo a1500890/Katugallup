@@ -2,6 +2,8 @@ package katugallup.model;
 
 public class Vastaus {
 	
+	//testailua
+	
 	private int id;
 	private String vastausteksti;
 	private String vastausaika;
