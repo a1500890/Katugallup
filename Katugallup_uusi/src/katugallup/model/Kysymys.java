@@ -3,7 +3,7 @@ package katugallup.model;
 
 
 public class Kysymys {
-
+	//mikko was here
 	private int id;
 	private String kysymysteksti;
 
