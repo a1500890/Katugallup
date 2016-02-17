@@ -11,7 +11,7 @@ import katugallup.model.dao.DataAccessObject;
 
 public class KysymysDAO extends DataAccessObject {
 
-	
+	// hienoa koodia!
 	
 	public void addKysymys(Kysymys kysymys) throws SQLException {
 		Connection connection = null;
