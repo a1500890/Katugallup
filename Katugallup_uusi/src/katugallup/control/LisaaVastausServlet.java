@@ -31,6 +31,7 @@ public class LisaaVastausServlet extends HttpServlet {
 		dispather.forward(request, response);
 	}
 
+	// Moi näkyykö tämä?
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		try{
