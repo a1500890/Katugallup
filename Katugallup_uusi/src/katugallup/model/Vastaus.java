@@ -3,6 +3,7 @@ package katugallup.model;
 public class Vastaus {
 	
 	//testailua
+	// näkyykö?
 	
 	private int id;
 	private String vastausteksti;
