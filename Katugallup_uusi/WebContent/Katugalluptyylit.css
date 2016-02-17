@@ -1,0 +1,172 @@
+.ylapalkki {
+	Width: 100%;
+	Height: 100px;
+	Background-color: rgb(81, 70, 148);
+	text-align: center;
+	padding: 1% 1% 1% 1%;
+	color: white;
+	font-family: myriad pro;
+	font-weight: bold;
+	font-size: 22px;
+	
+}
+
+.kysymyspalkki {
+	Width: 100%;
+	Height: 600px;
+	position: inline-block;
+	/*Background-color: rgb(157, 195, 230);*/
+	Background-color: #CEE5FF;
+	font-family: myriad pro;
+	position:relative;
+	margin-top: -0%;
+	padding: 1%;
+}
+
+h2 {
+	color: black;
+	font-family: calibri;
+	font-size: 20px;
+	text-decoration: underline;
+	margin: 0% 30% 2% 36%;
+}
+
+table {
+	Background-color: rgb(255,255,255);
+	width: 40%;
+	height: 100px;
+	border-color: rgb(160,160,160);
+	border-style: solid;
+	border-width: 0.5px;
+	border-collapse: collapse;
+	margin: 5% 30% 5% 30%;
+}
+
+td {
+	height: 50px;
+	Background-color: rgb(255,255,255);
+	border-color: rgb(160,160,160);
+	border-style: solid;
+	border-width: 0.5px;
+	border-collapse: collapse;
+	text-decoration: none;
+	font-family: calibri;
+	color: black;
+	padding: 2%;
+}
+
+tr {
+	border-color: rgb(160,160,160);
+	border-style: solid;
+	border-width: 0.5px;
+	border-collapse: collapse;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	
+}
+
+td:hover {
+    background-color: #e0e0e0;
+} 
+button {
+	Background-color: rgb(91, 155, 213);
+	border-radius: 10px;
+	margin: 1% 30% 20% 35%;
+	font-family: calibri;
+	font-size:18px;
+	color: white;
+	padding: 2% 5% 2% 5%;
+}
+
+button[type=submit] {
+	Background-color: rgb(91, 155, 213);*/
+	border-radius: 10px;
+	margin: 3% 30% 20% 10%;
+	font-family: calibri;
+	font-size:18px;
+	color: white;
+	padding: 2% 5% 2% 5%;
+}
+
+textarea {
+	border-radius: 10px;
+	width: 50%;
+	height: 300px;
+	margin: 1% 0% 2% 10%;
+	text-decoration: none;
+	border-style: solid;
+	border-color: black;
+	border-width: 0.5px;
+}
+
+h5 {
+	margin: 2% 0% 0% 10%;
+}
+
+input {
+	display: block;
+	margin: 0% 0% 1% 0%;
+	border-radius: 5px;
+	width: 60%;
+	height: 200px;
+	}
+	
+form {
+	margin: 1% 0% 0% 10%;
+	
+}
+	
+/*input[type=text] {
+	margin: 3% 0% 0% 10%;
+	font-family: arial;
+	
+}*/
+
+input[type=submit] {
+	height: 5%	;
+	font-family: arial;
+	color: white;
+	background-color: rgb(91, 155, 213);	
+	border-radius: 5px;
+	font-family: calibri;
+	font-size: 18px;
+	padding: 5px;
+	border: 0.5px solid white;
+	margin-top: 2%;
+}
+
+input[name=id] {
+	height: 20px;
+	background-color: white	;
+	font-family: calibri;
+	font-size: 14px;
+	border: 1px solid white;
+}
+
+input[name=vastausteksti] {
+	height: 100px;
+	background-color: white;
+	border: 1px solid white;
+	padding: 0px;
+	font-family: calibri;
+	font-size: 14px;
+}
+
+input[name=vastausaika] {
+	height: 20px;
+	background-color: white	;
+	font-family: calibri;
+	font-size: 14px;
+	border: 1px solid white;
+}
+
+input[name=vastaaja	] {
+	height: 20px;
+	background-color: white	;
+	font-family: calibri;
+	font-size: 14px;
+	border: 1px solid white;
+}
