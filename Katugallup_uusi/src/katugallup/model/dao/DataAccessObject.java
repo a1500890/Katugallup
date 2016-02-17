@@ -14,7 +14,7 @@ public class DataAccessObject {
 		Connection connection = null;
 		
 		String dbUsername = Accounts.DBUSERNAME;
-		String dbPassword = Accounts.DBPASSWORD;
+		String dbPassword = Accounts.DBPASSOWRD;
 		String url = "jdbc:mysql://localhost:3306/a1501078";
 				
 		try {

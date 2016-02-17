@@ -30,7 +30,10 @@ public class LisaaVastausServlet extends HttpServlet {
 		RequestDispatcher dispather = getServletContext().getRequestDispatcher(jsp);
 		dispather.forward(request, response);
 	}
+	
+	//Tässä testikommentti. Toimiiko tämä?
 
+	// Moi näkyykö tämä?
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		try{
