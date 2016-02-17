@@ -30,6 +30,8 @@ public class LisaaVastausServlet extends HttpServlet {
 		RequestDispatcher dispather = getServletContext().getRequestDispatcher(jsp);
 		dispather.forward(request, response);
 	}
+	
+	//Tässä testikommentti. Toimiiko tämä?
 
 	// Moi näkyykö tämä?
 
